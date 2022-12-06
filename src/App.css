@@ -23,6 +23,7 @@ h4 {
 .calculator {
   display: flex;
   justify-content: center;
+  /* width: auto; */
 }
 
 .form {
@@ -58,4 +59,8 @@ h4 {
 #label {
   font-size: 12px;
   text-align: left;
+}
+
+.test {
+  width: 100%;
 }
